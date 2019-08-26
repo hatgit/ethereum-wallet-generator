@@ -32,4 +32,5 @@ The following is an example of what the [light-ethereum-wallet.py](https://githu
  Public_key_bytes: b'}!J\xfc0q\xb6\xdc$!\xd5\x90\xe4"Ik\xd6\x03]\x00\xb0\xd6\xad\xb5\xfbxT\'\xa4S\xad\xf8n\xa9\xe2\xda\xb1!@gvt\xad9Y\xcf^\r\xab\x8ej\x9c\r\xcc\xb5\xaa\xbd\xb2\xf5\xe8\x85\xed\xd1\xc5' 
  Full_Keccak_digest: 04a7a8d3bc54ff8acba0e240f23ed954ab1e25ecefda5a3aa47948206d47ab6f 
  Ethereum address: 0xf23ed954ab1e25ecefda5a3aa47948206d47ab6f 
- Checksum Format of Above Ethereum: 0xF23eD954ab1E25EceFDa5A3AA47948206D47AB6F```
+ Checksum Format of Above Ethereum: 0xF23eD954ab1E25EceFDa5A3AA47948206D47AB6F
+ ```
