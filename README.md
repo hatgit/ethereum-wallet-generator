@@ -25,7 +25,8 @@ The eth-keys libary contains a suite of commands available via api, read more he
 
 The following is an example of what the [light-ethereum-wallet.py](https://github.com/hatgit/ethereum-wallet-generator/blob/master/light-ethereum-wallet.py) file from this repository will print when opened with Python as an exectuable (the values below should never be used on mainnet):
 
- ```Private_key: 5ab7c35ed259b573e9765b0f499f89ef4f144d9d03415331934647d568174165 
+ ```
+ Private_key_hex: 5ab7c35ed259b573e9765b0f499f89ef4f144d9d03415331934647d568174165 
  Private_key_bytes: b'Z\xb7\xc3^\xd2Y\xb5s\xe9v[\x0fI\x9f\x89\xefO\x14M\x9d\x03AS1\x93FG\xd5h\x17Ae' 
  Public_key_hex: 0x7d214afc3071b6dc2421d590e422496bd6035d00b0d6adb5fb785427a453adf86ea9e2dab12140677674ad3959cf5e0dab8e6a9c0dccb5aabdb2f5e885edd1c5 
  Public_key_bytes: b'}!J\xfc0q\xb6\xdc$!\xd5\x90\xe4"Ik\xd6\x03]\x00\xb0\xd6\xad\xb5\xfbxT\'\xa4S\xad\xf8n\xa9\xe2\xda\xb1!@gvt\xad9Y\xcf^\r\xab\x8ej\x9c\r\xcc\xb5\xaa\xbd\xb2\xf5\xe8\x85\xed\xd1\xc5' 
