@@ -1,6 +1,6 @@
 # ethereum-wallet-generator
 
-The light ethereum wallet, is a compact ethereum wallet generator that creates single private-public-key pairs to derive a single ethereum address.
+*The **light ethereum wallet** is a compact ethereum wallet generator that creates single private-public-key pairs to derive a single ethereum address.*
 
 >NOTE: This wallet DOES NOT SUPPORT BIP39 mnemonics which can control and derive entire crypto vaults with up to 2 billion addresses (using BIP32) per cryptocurrency and with support for multiple cryptocurrency accounts (using BIP44). For BIP39 tools, see [this repository](https://github.com/iancoleman/bip39). In addition, this wallet may not be compatible with many  cryptocurrency wallets that do not support the importing of private keys in plain text format.
 
